@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "Estilos/estilo.css">
+<title>Aplicaciones</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("article").hide()
+    $("#Portada").show();
+  $("#menuPortada").click(function(){
+    $("article").hide()
+    $("#Portada").show();
+  });
+  $("#menuAVG").click(function(){
+    $("article").hide()
+    $("#AVG").show();
+  });
+  $("#menuLibreoffice").click(function(){
+    $("article").hide()
+    $("#Libreoffice").show();
+  });
+  $("#menuRecuva").click(function(){
+    $("article").hide()
+    $("#Recuva").show();
+  });
+});
+</script>
+</head>
+<body>
+<header>
+  <h2>Aplicaciones</h2>
+</header>
+<section>
+  <nav>
+    <ul>
+      <li id="menuPortada"><a href="#Portada">Portada</a></li>
+      <li id="menuAVG"><a href="#AVG">AVG</a></li>
+      <li id="menuLibreoffice"><a href="#Libreoffice">Libreoffice</a></li>
+      <li id="menuRecuva"><a href="#Recuva">Recuva</a></li>
+    </ul>
+  </nav>
+  <article id="Portada">
+    <iframe  style="width:100%; border:none"src="Paginas/Portada.html"></iframe>
+  </article>
+  <article id="AVG">
+    <iframe  style="width:100%; border:none"src="Paginas/AVG.html"></iframe>
+  </article>
+  <article id="Libreoffice">
+    <iframe   style="width:100%; border:none"src="Paginas/Grid.html"></iframe>
+  </article>
+  <article id="Recuva">
+    <iframe style="width:100%; border:none"src="Paginas/Recuva.html"></iframe>
+  </article>
+</section>
+<footer>
+  <p>1 ASIR</p>
+</footer>
+
+</body>
+</html>
