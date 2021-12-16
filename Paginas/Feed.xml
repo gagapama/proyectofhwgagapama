@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<!--Prólogo-->
+		<title>Aplicaciones</title>
+		<link>https://gagapama.github.io/proyectofhwgagapama/</link>
+		<description>
+			Aplicaciones de ordenador
+		</description>
+		<category>información</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<language>es-es</language>
+		<lastBuildDate>Thu, 16 Dec 2021 11:15:00 +0100</lastBuildDate>
+		<webMaster>gagapa_aliesma20@iesmedinaazahara.es</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>AVG</title>
+			<description>En este artículo encontrará información sobre antivirus AVG</description>
+			<link>https://gagapama.github.io/proyectofhwgagapama/Paginas/AVG.html</link>
+			<author>gagapa_aliesma20@iesmedinaazahara.es</author>
+			<category>AVG</category>
+			<pubDate>Thu, 16 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+			<item>
+			<title>Libreoffice</title>
+			<description>En este artículo encontrará información sobre Libreoffice</description>
+			<link>https://gagapama.github.io/proyectofhwgagapama/Paginas/Libreoffice.html</link>
+			<author>gagapa_aliesma20@iesmedinaazahara.es</author>
+			<category>Libreoffice</category>
+			<pubDate>Thu, 16 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+            <item>
+			<title>Libreoffice Linux</title>
+			<description>En este artículo encontrará información sobre Libreoffice en Linux</description>
+			<link>https://gagapama.github.io/proyectofhwgagapama/Paginas/LibreofficeLinux.html</link>
+			<author>gagapa_aliesma20@iesmedinaazahara.es</author>
+			<category>Libreoffice</category>
+			<pubDate>Thu, 16 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+            <item>
+			<title>Libreoffice Portable</title>
+			<description>En este artículo encontrará información sobre Libreoffice Portable</description>
+			<link>https://gagapama.github.io/proyectofhwgagapama/Paginas/LibreofficePortable.html</link>
+			<author>gagapa_aliesma20@iesmedinaazahara.es</author>
+			<category>Libreoffice</category>
+			<pubDate>Thu, 16 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+            <item>
+			<title>Recuva</title>
+			<description>En este artículo encontrará información sobre Recuva</description>
+			<link>https://gagapama.github.io/proyectofhwgagapama/Paginas/Recuva.html</link>
+			<author>gagapa_aliesma20@iesmedinaazahara.es</author>
+			<category>Recuva</category>
+			<pubDate>Thu, 16 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
