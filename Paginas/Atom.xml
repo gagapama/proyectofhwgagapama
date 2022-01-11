@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+xml:lang="es"
+xml:base="https://gagapama.github.io/proyectofhwgagapama/">
+<title>Ejemplo Feed</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/"/>
+<updated>2022-01-11T13:10:02Z</updated>
+<author>
+<name>Pablo</name>
+</author>
+<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+<entry>
+<title>AVG</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/Paginas/AVG.html"/>
+<updated>2020-12-13T18:30:02Z</updated>
+<summary>En este artículo encontrará información sobre antivirus AVG</summary>
+</entry>
+<entry>
+<title>Libreoffice</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/Paginas/Libreoffice.html"/>
+<updated>2022-01-11T13:10:02Z</updated>
+<summary>En este artículo encontrará información sobre Libreoffice</summary>
+</entry>
+<entry>
+<title>Libreoffice Linux</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/Paginas/LibreofficeLinux.html"/>
+<updated>2022-01-11T13:10:02Z</updated>
+<summary>En este artículo encontrará información sobre Libreoffice en Linux</summary>
+</entry>
+<entry>
+<title>Libreoffice Portable</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/Paginas/LibreofficePortable.html"/>
+<updated>2022-01-11T13:10:02Z</updated>
+<summary>En este artículo encontrará información sobre Libreoffice Portable</summary>
+</entry>
+<entry>
+<title>Recuva</title>
+<link href="https://gagapama.github.io/proyectofhwgagapama/Paginas/Recuva.html"/>
+<updated>2022-01-11T13:10:02Z</updated>
+<summary>En este artículo encontrará información sobre Recuva</summary>
+</entry>
