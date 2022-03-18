@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href= "../Estilos/AcronisTrueImage.css">
+</head>
+<body>
+   <h1>En esta guía se explica como hacer copia de seguridad con Acronis True Image</h1>
+   <h3>Acronis True Image es una programa para hacer copias de seguridad, pero es de pago</h3>
+   <p>1. Abrimos Acronis True Image y hacemos click en Backup y después en Data Backup My Data</p>
+	<img src="..\Imagenes\Acronis True Image\Capture.JPG" alt="Captura 1" height="500px">
+	<p>2. Selecionamos los archivos y carpetas que queremos copiar y hacemos click en Next</p>
+	<img src="..\Imagenes\Acronis True Image\Capture 2.JPG" alt="Captura 2" height="500px">
+	<p>3. Seleccionamos Create New Backup Archive y en Backup Location seleccionamos el destino</p>
+	<img src="..\Imagenes\Acronis True Image\Capture 3.JPG" alt="Captura 3" height="500px">
+	<p>4. Hacemos click en Proceed para hacer la copia de seguridad</p>
+	<img src="..\Imagenes\Acronis True Image\Capture 4.JPG" alt="Captura 4" height="500px">
+	<p>5. Hay que pagar el programa para poder hacer la copia</p>
+</body>
+</html>
