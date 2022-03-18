@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href= "../Estilos/AOMEIBACKUPPERSTANDARD.css">
+</head>
+<body>
+   <h1>En esta guía se explica como hacer copia de seguridad con Acronis True Image</h1>
+   <h3>Acronis True Image es una programa para hacer copias de seguridad, pero es de pago</h3>
+   <p>1. Seleccionar File Backup para seleccionar los archivos de los que hacer copia de seguridad</p>
+	<img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 5.JPG" alt="Captura 1" height="500px">
+	<p>2. Seleccionar la carpeta que queremos copiar y la unidad a donde queremos copiarlo y seleccionar Start Backup</p>
+	<img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 6.JPG" alt="Captura 2" height="500px">
+	<p>3. Empieza a hacerse la copia de seguridad</p>
+	<img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 7.JPG" alt="Captura 3" height="500px">
+	<p>4. La copia de seguridad se ha completado</p>
+	<img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 8.JPG" alt="Captura 4" height="500px">
+	<p>5. Seleccionamos Restore y Select Image File para restaurar la copia de seguridad</p>
+  <img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 9.JPG" alt="Captura 5" height="500px">
+	<p>6. Seleccionamos los archivos y carpetas que queremos restaurar</p>
+  <img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 10.JPG" alt="Captura 6" height="500px">
+	<p>7. Seleccionamos Restore to Original Location para poder restaurar la copia de seguridad en la ubicación original</p>
+  <img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 11.JPG" alt="Captura 7" height="500px">
+	<p>8. Se empieza a restaurar la copia de seguridad</p>
+  <img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 12.JPG" alt="Captura 8" height="500px">
+	<p>9. La restauración se ha completado</p>
+  <img src="..\Imagenes\AOMEI BACKUPPER STANDARD\Capture 13.JPG" alt="Captura 9" height="500px">
+</body>
+</html>
